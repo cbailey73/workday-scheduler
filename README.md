@@ -10,5 +10,5 @@ To use this webpage, look at the top of the page to identify which hour you are 
 This webpage is not protected by a license.
 
 ## Credits
-Source code: https://github.com/coding-boot-camp/crispy-octo-meme
-Tutorial followed: https://github.com/jfisher396/workday-scheduler
+The source code from this webpage is found at: https://github.com/coding-boot-camp/crispy-octo-meme. 
+A tutorial followed is found at: https://github.com/jfisher396/workday-scheduler.
