@@ -11,4 +11,5 @@ This webpage is not protected by a license.
 
 ## Credits
 Source code: https://github.com/coding-boot-camp/crispy-octo-meme
+
 Tutorial followed: https://github.com/jfisher396/workday-scheduler
